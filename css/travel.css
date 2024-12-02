@@ -1,0 +1,124 @@
+.container1 {
+    width: 600px;
+    height: 500px;
+    margin-left: 800px;
+    
+    padding: 20px;
+    margin-top:70px;
+   
+  }
+ .headings{
+    color: rgb(201, 243, 247);
+    margin-left: 100px;
+ }
+ .headings1{
+     color: rgb(201, 243, 247);
+     margin-left: 100px;
+ }
+
+.text-align{
+    text-align: center;
+}
+.img1{
+    margin-left: -700px;
+    margin-top: -350px;
+    width:800px;
+}
+ul{
+    list-style-type: none; 
+    background-color: rgb(31, 30, 29);
+   
+    width: 1600px;
+    height: 70px;
+    margin: 0px;
+    padding-top: -10px;
+}
+li{
+    display: inline-block;
+    
+}
+li a{
+    padding: 20px;
+    text-decoration: none;
+    
+    float: right;
+    font-size:20px ;
+}
+li a:hover{
+    text-decoration: underline;
+    color: rgb(236, 13, 13);
+}
+.active{
+    text-decoration: underline;
+    color: brown;
+}
+.button1{
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(217, 249, 249);
+    font-weight: 600px;
+    margin-left: 200px;
+    border-radius: 8px;
+}
+.button1:hover{
+    background-color: rgb(209, 215, 250);
+}
+.container2{
+    width: 800px;
+    height: auto;
+    margin: 50px;
+    word-spacing: 5px;
+}
+.img1{
+    margin-left: 900px;
+    margin-top: -600px;
+    border-radius: 10px;
+}
+.container3{
+    width: 900px;
+    height: auto;
+    margin: 20px;
+    word-spacing: 5px;
+    background-color: black;
+    
+
+}
+.contents{
+    color: aliceblue;
+    margin-bottom: 20px;
+    
+}
+
+.container4{
+    width: 1100px;
+    height: 700px;
+    
+}
+.container5{
+    width: 400px;
+    height:auto;
+    margin-left: 1150px ;
+    border: solid 1px white;
+    margin-top:-600px;
+    box-shadow: 2px 2px 4px 4px  grey;
+}
+.container6{
+    color: azure;
+    padding-left: 20px;
+   
+}
+.container7{
+    
+    margin-top: 50px;
+    text-align: center;
+    background-color: black;
+}
+.container8{
+    width: 1600px;
+    margin-top: 100px;
+    height:400px;
+    
+    background-color: whitesmoke;
+    
+}
